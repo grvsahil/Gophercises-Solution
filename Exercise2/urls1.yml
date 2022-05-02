@@ -1,0 +1,4 @@
+- path: "/facebook"
+  url: "https://www.facebook.com"
+- path: "/linkedin"
+  url: "https://www.linkedin.com/"
